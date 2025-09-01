@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.19",
+    "axios": "^1.11.0",
+    "fs-extra": "^11.3.1",
+    "openai": "^5.16.0",
+    "pino": "^9.9.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.34.3",
+    "ytdl-core": "^4.11.5"
+  }
+}

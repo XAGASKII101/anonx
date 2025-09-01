@@ -1,0 +1,294 @@
+[8/31, 8:34 AM] Meta AI: Here's a merged list of commands from both ANONYMOUS X and Frieren, along with some additional commands:
+
+DOWNLOADERS
+
+- .instagram / .ig - Download Instagram content
+- .tiktok / .tt - Download TikTok content
+- .youtube / .yt - Download YouTube content
+- .twitter / .x - Download Twitter content
+- .facebook / .fb - Download Facebook content
+- .play [song name] - Play/download a song
+- .video [video name] - Download a video
+- .song [song name] - Download a song
+
+SEARCH
+
+- .pinterest / .pint - Search Pinterest
+- .sauce / .reverseimg - Search for image source
+- .wallpaper - Get wallpapers
+- .lyrics [song] - Get song lyrics
+- .weather [city] - Get weather info
+- .news - Get news updates
+
+AI COMMANDS
+
+- .gpt [question] - Ask GPT a question
+- .gemini [question] - Ask Gemini a question
+- .imagine [prompt] - Generate an image
+- .upscale [reply to image] - Upscale an image
+- .translate [text] - Translate text
+- .transcribe [reply to audio] - Transcribe audio
+- .copilot - Use Copilot AI
+- .perplexity - Use Perplexity AI
+
+CONVERTER
+
+- .sticker / .s - Create a sticker
+- .take [packname] [author] - Create a sticker pack
+- .toimg [reply to sticker] - Convert sticker to image
+- .tovid [reply to gif] - Convert gif to video
+- .simage [reply to sticker] - Convert sticker to image
+- .viewonce / .vv [reply to view once] - View once
+
+GAMES
+
+- .tictactoe / .ttt - Play Tic Tac Toe
+- .hangman - Play Hangman
+- .trivia - Play Trivia
+- .8ball [question] - Ask the 8ball a question
+- .dare - Get a dare
+- .truth - Get a truth question
+- .slots - Play slots
+- .cf - Play coin flip
+- .dice - Roll a dice
+- .roulette - Play roulette
+
+FUN
+
+- .joke - Get a joke
+- .meme - Get a meme
+- .quote - Get a quote
+- .fact - Get a fact
+- .compliment [@user] - Compliment a user
+- .insult [@user] - Insult a user
+- .ship [reply or mention 2 users] - Ship two users
+- .simp [@user] - Simp for a user
+- .stupid [@user] - Call a user stupid
+- .flirt - Flirt with someone
+- .goodnight - Say goodnight
+- .shayari - Get a shayari
+- .roseday - Celebrate Rose Day
+
+ADMIN
+
+- .kick [@user] - Kick a user
+- .ban [@user] - Ban a user
+- .unban [@user] - Unban a user
+- .promote [@user] - Promote a user
+- .demote [@user] - Demote a user
+- .mute [minutes] - Mute a user
+- .unmute - Unmute a user
+- .warn [@user] [reason] - Warn a user
+- .warnings [@user] - Get user warnings
+- .delete / .del - Delete a message
+- .tagall - Tag all users
+
+UTILITY
+
+- .ping - Check bot ping
+- .alive - Check bot status
+- .owner - Get bot owner info
+- .support - Get support info
+- .github / .sc - Get bot source code
+- .topmembers - Get top members
+- .jid - Get user JID
+- .ss [url] - Take a screenshot
+- .tts [text] - Convert text to speech
+- .attp [text] - Create a text sticker
+- .emojimix [emoji1+emoji2] - Mix two emojis
+- .blur [reply to image] - Blur an image
+- .wasted [reply to image] - Apply wasted filter
+- .character [reply to image] - Get image character count
+
+TEXT MAKERS
+
+- .metallic [text] - Create metallic text
+- .ice [text] - Create ice text
+- .snow [text] - Create snow text
+- .matrix [text] - Create matrix text
+- `.neon [
+[8/31, 8:34 AM] Meta AI: Here is the continuation of the merged list of commands:
+
+TEXT MAKERS (CONT'D)
+
+- .fire [text] - Create fire text
+- .thunder [text] - Create thunder text
+- .hacker [text] - Create hacker text
+- .glitch [text] - Create glitch text
+- .blackpink [text] - Create Blackpink-style text
+
+OWNER ONLY
+
+- .mode [public/private] - Set bot mode
+- .autostatus [on/off] - Set auto-status
+- .antidelete [on/off] - Set anti-delete
+- .clearsession - Clear session
+- .cleartmp - Clear temporary files
+- .setpp [reply to image] - Set bot profile picture
+- .areact [on/off] - Set auto-react
+- .whoami - Get bot info
+- .removecmd [reply to image command] - Remove command
+
+CARDS
+
+- .cards [on/off] - Toggle cards feature
+- .card [index] - Get card info
+- .ci [name] [tier] - Get card info
+- .cardinfo [name] [tier] - Get card info
+- .si [name] - Get series info
+- .ss [series_name] - Get series info
+- .slb [series_name] - Get series leaderboard
+- .clb - Get card leaderboard
+- .deck - Get deck info
+- .col - Get collection info
+- .cardshop - Get card shop info
+- .sellc [index] [price] - Sell card
+- .rc [index] - Remove card
+- .vs - Compare cards
+- .claim [id] - Claim card
+- .sc [@] [index] [price] - Send card
+- .tc [@] [index] [index] - Trade cards
+- .lendcard / lc - Lend card
+- .auction - Start auction
+- .submit [index] [price] - Submit bid
+- .myauc - Get my auctions
+- .remauc [index] - Remove auction
+
+ECONOMY
+
+- .balance / bal - Get balance
+- .daily - Get daily reward
+- .withdraw / wd - Withdraw money
+- .deposit / dep - Deposit money
+- .donate - Donate money
+- .lottery - Play lottery
+- .rich - Get rich list
+- .richg - Get rich list (global)
+- .profile / p - Get profile
+- .edit - Edit profile
+- .bio [bio] - Set bio
+- .setage [age] - Set age
+- .inventory / inv - Get inventory
+- .use [item name] - Use item
+- .sell [item_name] - Sell item
+- .shop - Get shop info
+- .dig - Dig for items
+- .fish - Fish for items
+- .leaderboard / lb - Get leaderboard
+- .roast - Roast someone
+- .gamble - Gamble money
+- .beg - Beg for money
+
+ADDITIONAL COMMANDS
+
+- .onbot - Turn on bot
+- .offbot - Turn off bot
+- .say [text] - Make bot say something
+- .dictionary [word] - Get word definition
+
+Let me know if you'd like me to add any other commands!
+[8/31, 8:36 AM] Meta AI: Here are 15 additional commands that bots like this are often meant to have:
+
+- .help - [Show this command list]
+- .ping - [Check bot ping]
+- .uptime - [Check bot uptime]
+- .userinfo [@user] - [Get user info]
+- .serverinfo - [Get server info]
+- .randomfact - [Get a random fact]
+- .meme - [Get a random meme]
+- .joke - [Get a random joke]
+- .quote - [Get a random quote]
+- .weather [city] - [Get weather info]
+- .trivia - [Play a trivia game]
+- .define [word] - [Define a word]
+- .translate [text] - [Translate text]
+- .tts [text] - [Convert text to speech]
+- .avatar [@user] - [Get user avatar]
+
+These commands can be useful for users to interact with the bot and get information. You can add or remove commands based on your specific needs.
+
+Here is the updated list:
+
+ADDITIONAL COMMANDS
+
+- .onbot - Turn on bot
+- .offbot - Turn off bot
+- .say [text] - Make bot say something
+- .dictionary [word] - Get word definition
+- .help - Show command list
+- .ping - Check bot ping
+- .uptime - Check bot uptime
+- .userinfo [@user] - Get user info
+- .serverinfo - Get server info
+- .randomfact - Get a random fact
+- .meme - Get a random meme
+- .quote - Get a random quote
+- .define [word] - Define a word
+- .avatar [@user] - Get user avatar
+- .trivia - Play a trivia game
+
+Let me know if you need any further assistance!
+[8/31, 8:36 AM] Meta AI: Here are 20 more additional commands that bots like this are often meant to have:
+
+- .calculator [expression] - Calculate a mathematical expression
+- .currency [amount] [from] [to] - Convert currency
+- .time [city] - Get current time in a city
+- .date - Get current date
+- .userinfo [@user] - Get detailed user info
+- .serverstats - Get server statistics
+- .botinfo - Get bot information
+- .support - Get support information
+- .invite - Get bot invite link
+- .vote - Vote for the bot
+- .donate - Get donation information
+- .feedback [message] - Send feedback to the bot owner
+- .report [issue] - Report an issue to the bot owner
+- .suggest [suggestion] - Suggest a feature to the bot owner
+- .poll [question] [options] - Create a poll
+- .vote [poll id] - Vote in a poll
+- .results [poll id] - Get poll results
+- .remind [time] [message] - Set a reminder
+- .todo [task] - Add a task to the todo list
+- .todo list - Get the todo list
+
+These commands can be useful for users to interact with the bot and get information. You can add or remove commands based on your specific needs.
+
+Here is the updated list:
+
+ADDITIONAL COMMANDS
+
+- .onbot - Turn on bot
+- .offbot - Turn off bot
+- .say [text] - Make bot say something
+- .dictionary [word] - Get word definition
+- .help - Show command list
+- .ping - Check bot ping
+- .uptime - Check bot uptime
+- .userinfo [@user] - Get user info
+- .serverinfo - Get server info
+- .randomfact - Get a random fact
+- .meme - Get a random meme
+- .quote - Get a random quote
+- .define [word] - Define a word
+- .avatar [@user] - Get user avatar
+- .trivia - Play a trivia game
+- .calculator [expression] - Calculate a mathematical expression
+- .currency [amount] [from] [to] - Convert currency
+- .time [city] - Get current time in a city
+- .date - Get current date
+- .botinfo - Get bot information
+- .support - Get support information
+- .invite - Get bot invite link
+- .vote - Vote for the bot
+- .donate - Get donation information
+- .feedback [message] - Send feedback to the bot owner
+- .report [issue] - Report an issue to the bot owner
+- .suggest [suggestion] - Suggest a feature to the bot owner
+- .poll [question] [options] - Create a poll
+- .vote [poll id] - Vote in a poll
+- .results [poll id] - Get poll results
+- .remind [time] [message] - Set a reminder
+- .todo [task] - Add a task to the todo list
+- .todo list - Get the todo list
+
+Let me know if you need any further assistance!

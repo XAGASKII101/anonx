@@ -1,0 +1,52 @@
+{
+  "botName": "🅰️🅽🅾️🅽🆈🅼🅾️🆄🆂 ✗",
+  "phoneNumber": "2348107516059",
+  "ownerNumber": "2348107516059",
+  "prefix": ".",
+  "autoRead": true,
+  "autoReact": false,
+  "groupsOnly": false,
+  "selfBot": false,
+  "maxConcurrentDownloads": 3,
+  "commandCooldown": 3000,
+  "adminCooldown": 1000,
+  "maxFileSize": 100,
+  "allowedFormats": ["mp4", "mp3", "jpg", "jpeg", "png", "gif", "webp", "pdf"],
+  "features": {
+    "downloaders": true,
+    "ai": true,
+    "games": true,
+    "fun": true,
+    "admin": true,
+    "economy": true,
+    "stickers": true
+  },
+  "limits": {
+    "dailyCommands": 500,
+    "downloadSize": 100,
+    "aiRequests": 50
+  },
+  "messages": {
+    "welcome": "👋 Welcome! I'm ANONYMOUS X bot.\nType .help for commands.",
+    "goodbye": "👋 Goodbye! Thanks for using our group.",
+    "error": "❌ An error occurred. Please try again later.",
+    "noPermission": "❌ You don't have permission to use this command.",
+    "cooldown": "⏰ Please wait before using this command again.",
+    "processing": "⏳ Processing your request...",
+    "success": "✅ Operation completed successfully!"
+  },
+  "apis": {
+    "openai": {
+      "baseUrl": "https://api.openai.com/v1",
+      "model": "gpt-5",
+      "maxTokens": 1000
+    },
+    "youtube": {
+      "quality": "highest",
+      "format": "mp4"
+    },
+    "instagram": {
+      "quality": "hd"
+    }
+  }
+}

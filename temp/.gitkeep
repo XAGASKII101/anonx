@@ -1,0 +1,2 @@
+# This file ensures the temp directory is tracked by git
+# Temporary files for downloads and processing will be stored here
